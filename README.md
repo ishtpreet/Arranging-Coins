@@ -9,7 +9,7 @@ Example 1:
 
 n = 5
 
-The coins can form the following rows:
+The coins can form the following rows: <br />
 ¤ <br />
 ¤ ¤ <br />
 ¤ ¤ <br />
@@ -19,7 +19,7 @@ Example 2:
 
 n = 8
 
-The coins can form the following rows:
+The coins can form the following rows: <br />
 ¤ <br />
 ¤ ¤ <br />
 ¤ ¤ ¤ <br />
